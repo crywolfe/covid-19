@@ -1,2 +1,2 @@
-# CIS-700-COVID-19
-CIS-700
+# COVID-19-project
+Project
